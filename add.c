@@ -28,3 +28,4 @@ void f_add(stack_t **head, unsigned int counter)
 	i->next->n = aux;
 	*head = i->next;
 	free(i);
+}

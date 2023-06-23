@@ -1,4 +1,4 @@
-include "monty.h"
+#include "monty.h"
 /**
  * f_pall - this func prints all the values on the stack
  * @head: stack head
